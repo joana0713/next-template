@@ -1,0 +1,10 @@
+@use "@/styles/abstracts/variables" as *;
+
+.button {
+  background: $primary-color;
+  padding: 0.8rem 1.2rem;
+  border-radius: 6px;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
