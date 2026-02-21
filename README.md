@@ -10,6 +10,9 @@ The project structure is completed, and the issue will be resolved in the next u
 - Build error during `npm run build`
 - Possible cause: Next.js app directory configuration
 
+## Solution
+- error in import part
+
 ## 🛠 Tech Stack
 
 - Next.js
